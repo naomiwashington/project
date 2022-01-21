@@ -1,1 +1,8 @@
-# project
+![alien1](https://user-images.githubusercontent.com/96081319/150599853-49410fae-13e1-4838-b3ba-72afa077cacb.png)
+![alien2](https://user-images.githubusercontent.com/96081319/150599855-bdef36d1-2641-4d49-ab76-724c084bd4a3.png)
+![fruit1](https://user-images.githubusercontent.com/96081319/150599856-d54abdbb-a149-449d-9292-4932a8a5fe2b.png)
+![fruit2](https://user-images.githubusercontent.com/96081319/150599857-4c1bb78f-385c-4a70-b070-c0cdb04689e0.png)
+![fruit3](https://user-images.githubusercontent.com/96081319/150599858-c9cfda7b-c079-4564-9c70-6cab103c3e1a.png)
+![fruit4](https://user-images.githubusercontent.com/96081319/150599859-fcdbcd43-e033-4634-ab7d-8cd83bc16dcb.png)
+![gameover](https://user-images.githubusercontent.com/96081319/150599860-9364b101-c600-4392-97da-565327a3114f.png)
+![knife](https://user-images.githubusercontent.com/96081319/150599861-966d291e-9fa2-415d-a6dd-d987c809ad5a.png)
